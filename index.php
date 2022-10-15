@@ -12,7 +12,9 @@
         <br>
         <label for ="email">Email: <input type= "email" name ="email" ></label>
         <br>
-        <label for ="Date of Birth">Date of Birth: <input type= "number" name ="dob" ></label>
+        <label for="date of birth">Date of Birth:</label>
+         <input type="date" id="birthday" name="birthday">
+             
         <br>
         <label for ="Gender">Gender: <input type= "text" name ="gender" ></label>
         <br>
